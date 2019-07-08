@@ -12,7 +12,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class Topic02_Xpath {
+public class Xpath {
 	// Create global variable
 	WebDriver driver;
 
